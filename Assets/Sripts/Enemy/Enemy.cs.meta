@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8bd63e2f8fc15a84ca601814493a8401
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pointA: {instanceID: 0}
+  - pointB: {instanceID: 0}
+  - diamond1: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: e1f6cc76e45ef401c8d538cef60801c2, type: 3}
+  - attackpoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
